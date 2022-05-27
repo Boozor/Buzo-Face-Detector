@@ -1,1 +1,1 @@
- web: gunicorn main:app --log-file -
+web: sh setup.sh && streamlit run main.py
