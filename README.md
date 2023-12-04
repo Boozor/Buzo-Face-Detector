@@ -1,4 +1,4 @@
-# Buzo_Face_Detector
+# Buzo-Face-Detector
 
 The app was developed using the Haar Cascade algorithm, OpenCV, Python 3.10, and Streamlit. The app utilizes a multi-stage process consisting of four key stages:
 1️⃣ Haar Feature Selection
